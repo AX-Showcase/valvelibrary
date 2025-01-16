@@ -1,3 +1,3 @@
 # valvelibrary
 
-use tempaltes
+use templates
